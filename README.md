@@ -108,6 +108,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly
 
 ## 🚀 How to Run
 
+**View online (no setup needed):**
+👉 [Open in nbviewer](https://nbviewer.org/github/nihadqasimov2006/Data_Science_Portfolio/blob/main/Iris_dataset_clustering_with_KMeans.ipynb)
+
+**Run locally:**
 ```bash
 jupyter notebook Iris_dataset_clustering_with_KMeans.ipynb
 ```
